@@ -1,4 +1,4 @@
-# Set of audio projects from Hugging Face
+# Set of Audio Signal Processing projects from Hugging Face
 
 | Name | Dataset | Model | Notebook | Result | Metric |
 | --- | --- | --- | --- | --- | --- |
